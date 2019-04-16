@@ -2,3 +2,12 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+node_modules/
+**/.DS_store
+.idea/
+seves.js.org.iml
+*.log
+/.settings/
+/.classpath
+/.project
